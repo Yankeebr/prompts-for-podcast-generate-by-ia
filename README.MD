@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    Explorando os Principais Usos do Python
 </p>
 
 <div align="center">
